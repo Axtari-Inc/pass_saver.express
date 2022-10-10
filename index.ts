@@ -7,3 +7,4 @@ app.listen(PORT,()=>{
     console.log(`Server started on port ${PORT}`);
 })
 
+`    git config --global user.name "InvisibleAstra"`
